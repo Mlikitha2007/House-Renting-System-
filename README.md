@@ -74,12 +74,12 @@ This is a **group project** developed collaboratively by B.Tech students as part
 
 At the current stage, the team is collectively exploring the different aspects of the system. Individual roles, responsibilities, technologies, and development tasks will be finalized as the project progresses
 👥 Team Members
-M. Likitha
-P. Namitha
-L. Yamini Sai
-L. Vaishnavi
-N. Purna Sahithi
-M. Thanishka
+M. Likitha,
+P. Namitha,
+L. Yamini Sai,
+L. Vaishnavi,
+N. Purna Sahithi,
+M. Thanishka.
 
 ## 🛠️ Technology Stack
 
